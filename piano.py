@@ -61,7 +61,7 @@ def middle(event):
 
 
 root=Tk()
-root.title('PB vocal piano')
+root.title('beep piano')
 pic=PhotoImage(file='background.gif')
 
 msg=Frame(root)
